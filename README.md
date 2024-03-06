@@ -1,7 +1,7 @@
 ### <div align="center">I'm Sandra, a passionate software engineer with a strong interest in programming.</div>  
   
 
-- ⚡ I’m currently working on Techshare as Junior Consultant  
+- ⚡ I’m currently working on Techshare as Junior Fullstack Developer  
   
 
 -  🌈 I’m currently  developing a web system for ATS Piñatas Especiales  
